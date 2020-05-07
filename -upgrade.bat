@@ -1,2 +1,1 @@
-::cd laravel
-php ..\composer.phar update
+python3 -m pip install --user --upgrade pip
